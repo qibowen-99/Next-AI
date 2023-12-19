@@ -1,2 +1,2 @@
-# Next-AI
-Full-Stack Web-Based Q&amp;A AI Agent for PDF Document Queries   
+Full-Stack Web-Based Q&A AI Agent for PDF Document Queries
+run `npm run dev` to start.
